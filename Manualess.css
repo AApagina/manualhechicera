@@ -47,24 +47,25 @@ body {
     }
 }
 .seccion {
-    background: #cdcea1;
+    background: #aebccd;
     padding: 20px;
     margin: 30px auto;
     width: 90%;
     max-width: 800px;
 
-    border: 2px solid #50441d;      /* borde gris */
+    border: 2px solid #1e1556;      /* borde gris */
     border-radius: 15px;         /* bordes redondeados */
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);  /* sombra suave */
 }
 .menu {
-    background: #cdcea1;
+    background: #aebccd;
     padding: 20px;
     margin: 30px auto;
     width: 90%;
     max-width: 800px;
 
-    border: 2px solid #50441d;      /* borde gris */
+    border: 2px solid #1e1556;      /* borde gris */
     border-radius: 15px;         /* bordes redondeados */
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);  /* sombra suave */
+
 }
